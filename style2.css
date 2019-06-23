@@ -1,0 +1,9 @@
+.lo{
+	display: block;
+	font-family: Montserrat, sans-serif;
+	font-size: 125px;
+	background:linear-gradient(90deg, #456990, #e5446d,#ffe66d 15%);
+	background-size: 600% 600%;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+}
